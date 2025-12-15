@@ -747,8 +747,8 @@ npm run clean
 
 ## Links
 
-- [GitHub Repository](https://github.com/zemyth/raise)
-- [Issue Tracker](https://github.com/zemyth/raise/issues)
+- [GitHub Repository](https://github.com/zemyth-app/raise)
+- [Issue Tracker](https://github.com/zemyth-app/raise/issues)
 - [npm Package](https://www.npmjs.com/package/@zemyth/raise-sdk)
 
 ## License

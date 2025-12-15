@@ -119,11 +119,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/zemyth/raise"
+    "url": "https://github.com/zemyth-app/raise"
   },
   "bugs": {
-    "url": "https://github.com/zemyth/raise/issues"
+    "url": "https://github.com/zemyth-app/raise/issues"
   },
+  "homepage": "https://github.com/zemyth-app/raise#readme",
   "engines": {
     "node": ">=18"
   }
